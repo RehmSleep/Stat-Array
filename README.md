@@ -4,7 +4,9 @@ The Array can be found at https://drive.google.com/open?id=1zXDdAmKhxDGl3x-zHvyc
 
 INSTRUCTIONS FOR USING THE ARRAY
 
-Step 1: roll two six sided dice at the same time and record the sum. Example: 2+1=3 
+Step 1: Roll two six sided dice at the same time and record the sum. 
+	
+	Example: rolling 2d6 and one rolls a 2 and the other a 1. The die roll is the sum, so 2+1=3 
 
 Step 2: Repeat step one six time so that you have a roll for each stat. 
 
