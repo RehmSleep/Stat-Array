@@ -21,7 +21,7 @@ Step 3: For each sum a player chooses a column in the array to assign that sum t
 
 	Example: "I want to use the 11 I rolled on my 2d6 in Column G for a  17 as my starting stat score."
 
-Step 4: A player uses each of the sums they rolled in a different column until they have used every column exactly one time. The player can choose where they want to use each sum. 
+Step 4: A player uses each of the sums they rolled in a different column until they have used every column(B, C, D, E, F, and G) exactly one time. The player can choose where they want to use each sum. 
 	
 	Example: (using the rolls in the example in step 2) "My stats are 16 [using an 8 in column G], 16 [using the 11 in Column F], 13 [using the 6 in Column E], 10 [using the 3 in Column D], 11 [using the 8 in Column C], and 8 [using the 7 in Column B], for a total of 74 when you add up all my scores"
 
