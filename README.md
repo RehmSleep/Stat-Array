@@ -3,8 +3,6 @@ This repo contains MATLAB Code for optimizing Stat Array v1.1  for 5e DND charac
 
 The Array can be found at https://drive.google.com/open?id=1zXDdAmKhxDGl3x-zHvycHX9udPv2UxOi9bHPxXUs5tY
 
-https://docs.google.com/spreadsheets/d/e/2PACX-1vQoo1az4xTHxEpdBf3gTdrabC3I8dNxkpbX0xXFXzpsvVFhAiTRVU3Q49LZlaUpF6--F_x0iuUHfXD3/pubhtml
-
 INSTRUCTIONS FOR USING THE ARRAY
 
 Step 1: A player rolls two six sided dice at the same time and records the sum. 
