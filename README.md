@@ -13,7 +13,7 @@ Step 2: Repeat step 1 six times so that the player has a roll for each stat.
 
 	Example: Player 1 rolls 2d6 6 times and gets the following dice rolls {3, 7, 8 , 11, 6, 8}.
 
-If a player rolls a "2" then they will need to roll a 20 sided dice and record that number with the corrisponding "2." 
+If a player rolls a "2" then they will need to roll a 20 sided dice and record that number with the corresponding "2." 
 	
 	Example: Player 2 rolls 2 on one of their 2d6 and then rolls a d20 and gets a 16 so their die roll is 2(16).
 
